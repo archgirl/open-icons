@@ -1,44 +1,20 @@
 # open-icons
 
 <h3>Current Icon List</h3>
+- Open Chat in New Window
+- Coffee
+- Discord
+- Facebook
+- Facebook Messenger
+- Gamewisp
+- Instagram
+- Snapchat
+- Steam
+- Twitter
+- Twitch
+- Twitch Alerts
+- YouTube
 
-Chat in New Window<br>
-op-open
+![image of current icons](https://github.com/archgirl/open-icons/blob/master/PROMO.jpg?raw=true)
 
-Coffee<br>
-op-coffee
-
-Discord<br>
-op-discord
-
-Facebook<br>
-op-fb
-
-Facebook Messenger<br>
-op-fbmg
-
-Gamewisp<br>
-op-gwisp
-
-Instagram<br>
-op-insta
-
-Snapchat<br>
-op-snap
-
-Steam<br>
-op-steam
-
-Twitter<br>
-op-tw
-
-Twitch<br>
-op-twitch
-
-Twitch Alerts<br>
-op-alerts
-
-YouTube<br>
-op-yt
-
-**See them in action at Fatsack Gaming: www.fatsackgaming.com
+*See them in action at [Fatsack Gaming](www.fatsackgaming.com)*
