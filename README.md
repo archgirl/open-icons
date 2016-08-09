@@ -2,8 +2,8 @@
 
 <h3>Current Icon List</h3>
 
-Chat<br>
-op-chat
+Chat in New Window<br>
+op-open
 
 Coffee<br>
 op-coffee
