@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'open-icon';
+  src:  url('fonts/open-icon.eot?p13ypm');
+  src:  url('fonts/open-icon.eot?p13ypm#iefix') format('embedded-opentype'),
+    url('fonts/open-icon.ttf?p13ypm') format('truetype'),
+    url('fonts/open-icon.woff?p13ypm') format('woff'),
+    url('fonts/open-icon.svg?p13ypm#open-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'open-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.op-tw:before {
+  content: "\e900";
+}
+.op-yt:before {
+  content: "\e901";
+}
+.op-alerts:before {
+  content: "\e902";
+}
+.op-twitch:before {
+  content: "\e903";
+}
+.op-discord:before {
+  content: "\e904";
+}
+.op-fb:before {
+  content: "\e905";
+}
+.op-fbmg:before {
+  content: "\e906";
+}
+.op-gwisp:before {
+  content: "\e907";
+}
+.op-insta:before {
+  content: "\e908";
+}
+.op-snap:before {
+  content: "\e909";
+}
+.op-steam:before {
+  content: "\e90a";
+}
+
