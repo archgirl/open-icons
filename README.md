@@ -2,6 +2,9 @@
 
 <h3>Current Icon List</h3>
 
+Coffee<br>
+op-coffee
+
 Discord<br>
 op-discord
 
