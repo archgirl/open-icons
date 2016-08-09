@@ -2,6 +2,9 @@
 
 <h3>Current Icon List</h3>
 
+Chat<br>
+op-chat
+
 Coffee<br>
 op-coffee
 
