@@ -2,37 +2,37 @@
 
 <h3>Current Icon List</h3>
 
-Discord
+Discord<br>
 op-discord
 
-Facebook
+Facebook<br>
 op-fb
 
-Facebook Messenger
+Facebook Messenger<br>
 op-fbmg
 
-Gamewisp
+Gamewisp<br>
 op-gwisp
 
-Instagram
+Instagram<br>
 op-insta
 
-Snapchat
+Snapchat<br>
 op-snap
 
-Steam
+Steam<br>
 op-steam
 
-Twitter
+Twitter<br>
 op-tw
 
-Twitch
+Twitch<br>
 op-twitch
 
-Twitch Alerts
+Twitch Alerts<br>
 op-alerts
 
-YouTube
+YouTube<br>
 op-yt
 
 **See them in action at Fatsack Gaming: www.fatsackgaming.com
