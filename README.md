@@ -1,6 +1,9 @@
 # open-icons
 
+[![CodeFactor](https://www.codefactor.io/repository/github/archgirl/open-icons/badge)](https://www.codefactor.io/repository/github/archgirl/open-icons)
+
 <h3>Current Icon List</h3>
+
 - Open Chat in New Window
 - Coffee
 - Discord
